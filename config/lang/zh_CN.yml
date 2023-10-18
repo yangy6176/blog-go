@@ -1,0 +1,14 @@
+success:
+  select: 恭喜您，搜索成功
+  insert: 恭喜您，新增成功
+  update: 恭喜您，修改成功
+  delete: 恭喜您，删除成功
+  login: 恭喜您，登录成功
+fail:
+  select: 很抱歉，搜索失败
+  insert: 很抱歉，新增失败
+  update: 很抱歉，修改失败
+  delete: 很抱歉，删除失败
+  login: 登录失败，请尝试重新登录
+system:
+  error: 系统错误，请联系管理员
